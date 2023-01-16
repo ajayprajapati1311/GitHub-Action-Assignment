@@ -1,3 +1,3 @@
-bucketname = "ajay1311"
+bucketname = "ajay2000"
 
 Owner = "Ajay.Prajapati@cloudeq.com"

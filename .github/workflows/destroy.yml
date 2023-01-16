@@ -5,7 +5,7 @@ on:
  
     
 env:
-  bucket: ajay1311
+  bucket: ajay2000
   tfstate_file: bucket.tfstate
   
   aws-region: ap-south-1
